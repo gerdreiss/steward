@@ -1,0 +1,2 @@
+- gerdreiss/typicode-graph
+- gerdreiss/typicode-tyrian
