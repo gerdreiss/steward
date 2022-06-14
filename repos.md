@@ -1,2 +1,3 @@
 - gerdreiss/typicode-graph
 - gerdreiss/typicode-tyrian
+- gerdreiss/typicode-laminar
