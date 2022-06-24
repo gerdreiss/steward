@@ -1,4 +1,4 @@
 - gerdreiss/typicode-graph
 - gerdreiss/typicode-tyrian
-- gerdreiss/typicode-laminar
+- gerdreiss/typicode-laminar-vite
 - gerdreiss/explore-slick-with-zio
