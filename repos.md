@@ -2,3 +2,4 @@
 - gerdreiss/typicode-tyrian
 - gerdreiss/typicode-laminar-vite
 - gerdreiss/explore-slick-with-zio
+- gerdreiss/explore-zio-tapir-openapi
